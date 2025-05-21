@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>ad993d73-729d-453b-a6b3-f151cb68e592</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.2.1" />
+    <PackageReference Include="Aspire.Hosting.Keycloak" Version="9.3.0-preview.1.25265.20" />
+    <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="9.2.1" />
+    <PackageReference Include="Aspire.Hosting.RabbitMQ" Version="9.2.1" />
+    <PackageReference Include="Aspire.Hosting.Redis" Version="9.2.1" />
+    <PackageReference Include="CommunityToolkit.Aspire.Hosting.Ollama" Version="9.4.1-beta.291" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Basket\Basket.csproj" />
+    <ProjectReference Include="..\Catalog\Catalog.csproj" />
+    <ProjectReference Include="..\WebApp\WebApp.csproj" />
+  </ItemGroup>
+
+</Project>

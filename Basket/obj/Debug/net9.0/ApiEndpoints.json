@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "Basket.Endpoints.BasketEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBasketEndpoints\u003Eb__0_1",
+    "RelativePath": "basket/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shoppingCart",
+        "Type": "Basket.Models.ShoppingCart",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Basket.Models.ShoppingCart",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ],
+    "EndpointName": "UpdateBasket"
+  },
+  {
+    "ContainingType": "Basket.Endpoints.BasketEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBasketEndpoints\u003Eb__0_0",
+    "RelativePath": "basket/{userName}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Basket.Models.ShoppingCart",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 404
+      }
+    ],
+    "EndpointName": "GetBasket"
+  },
+  {
+    "ContainingType": "Basket.Endpoints.BasketEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapBasketEndpoints\u003Eb__0_2",
+    "RelativePath": "basket/{userName}",
+    "HttpMethod": "DELETE",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ],
+    "EndpointName": "DeleteBasket"
+  }
+]

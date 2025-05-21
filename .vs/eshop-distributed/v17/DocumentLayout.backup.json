@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}|WebApp\\WebApp.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\webapp\\components\\pages\\support.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3215F6CF-A442-1C21-6AD3-94ED23F4EBA5}|WebApp\\WebApp.csproj|solutionrelative:webapp\\components\\pages\\support.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\catalog\\services\\productaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|solutionrelative:catalog\\services\\productaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\catalog\\catalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|solutionrelative:catalog\\catalog.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\catalog\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|solutionrelative:catalog\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|solutionrelative:catalog\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|c:\\users\\ayeme002\\source\\repos\\eshop-distributed\\catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F761E8-674E-7804-3E8F-374E41B75BE9}|Catalog\\Catalog.csproj|solutionrelative:catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Support.razor",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\WebApp\\Components\\Pages\\Support.razor",
+              "RelativeDocumentMoniker": "WebApp\\Components\\Pages\\Support.razor",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\WebApp\\Components\\Pages\\Support.razor",
+              "RelativeToolTip": "WebApp\\Components\\Pages\\Support.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T06:57:26.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.http",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Catalog.http",
+              "RelativeDocumentMoniker": "Catalog\\Catalog.http",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Catalog.http",
+              "RelativeToolTip": "Catalog\\Catalog.http",
+              "ViewState": "AgIAAB8AAAAAmpmZmZkKwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-21T06:27:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAIService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductAIService.cs",
+              "RelativeDocumentMoniker": "Catalog\\Services\\ProductAIService.cs",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductAIService.cs",
+              "RelativeToolTip": "Catalog\\Services\\ProductAIService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:05:08.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog\\Program.cs",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Program.cs",
+              "RelativeToolTip": "Catalog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:01:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "Catalog\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "Catalog\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:23:07.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Catalog\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ayeme002\\source\\repos\\eshop-distributed\\Catalog\\Services\\ProductService.cs",
+              "RelativeToolTip": "Catalog\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:23:07.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\bin\Release\net9.0\ServiceDefaults.deps.json
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\bin\Release\net9.0\ServiceDefaults.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\bin\Release\net9.0\ServiceDefaults.pdb
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.AssemblyInfo.cs
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\refint\ServiceDefaults.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ServiceDefaults.pdb
+C:\Users\ayeme002\source\repos\eshop-distributed\ServiceDefaults\obj\Release\net9.0\ref\ServiceDefaults.dll
