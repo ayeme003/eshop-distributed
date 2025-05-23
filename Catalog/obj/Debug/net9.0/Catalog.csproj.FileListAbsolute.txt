@@ -198,3 +198,7 @@ C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\tr\Asp
 C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\zh-Hans\Aspire.Hosting.resources.dll
 C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\zh-Hant\Aspire.Hosting.resources.dll
 C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\obj\Debug\net9.0\Catalog.sourcelink.json
+C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\Microsoft.Extensions.VectorData.Abstractions.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\Microsoft.SemanticKernel.Connectors.InMemory.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\Catalog\bin\Debug\net9.0\System.Numerics.Tensors.dll

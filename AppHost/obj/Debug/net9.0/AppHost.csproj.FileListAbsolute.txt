@@ -144,3 +144,4 @@ C:\Users\ayeme002\source\repos\eshop-distributed\AppHost\obj\Debug\net9.0\Aspire
 C:\Users\ayeme002\source\repos\eshop-distributed\AppHost\bin\Debug\net9.0\CommunityToolkit.Aspire.Hosting.Ollama.dll
 C:\Users\ayeme002\source\repos\eshop-distributed\AppHost\bin\Debug\net9.0\Microsoft.Extensions.AI.Abstractions.dll
 C:\Users\ayeme002\source\repos\eshop-distributed\AppHost\bin\Debug\net9.0\OllamaSharp.dll
+C:\Users\ayeme002\source\repos\eshop-distributed\AppHost\obj\Debug\net9.0\AppHost.sourcelink.json

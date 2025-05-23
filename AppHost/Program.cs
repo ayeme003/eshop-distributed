@@ -42,6 +42,7 @@ var ollama = builder
     .WithOpenWebUI();
 
 var llma = ollama.AddModel("llama3.2");
+var embedding = ollama.AddModel("all-minilm");
 
 // Projects
 var catalog = builder
@@ -49,9 +50,11 @@ var catalog = builder
     .WithReference(catalogDb)
     .WithReference(rabbitmq)                            // The WithReference Method injects environement variables so catalog ms can connect to rabbitMq
     .WithReference(llma)
+    .WithReference(embedding)
     .WaitFor(catalogDb)
     .WaitFor(rabbitmq)                                  // The WaitFor ensures catalog ms waits for rabbitMQ to be ready before starting
-    .WaitFor(llma);
+    .WaitFor(llma)
+    .WaitFor(embedding);
 
 
 var basket = builder

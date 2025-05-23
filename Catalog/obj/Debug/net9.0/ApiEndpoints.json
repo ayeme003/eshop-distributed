@@ -136,6 +136,56 @@
   },
   {
     "ContainingType": "Catalog.Endpoints.ProductEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductEndpoints\u003Eb__0_7",
+    "RelativePath": "products/aisearch{query}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Catalog.Models.Product, Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "AISearchProducts"
+  },
+  {
+    "ContainingType": "Catalog.Endpoints.ProductEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapProductEndpoints\u003Eb__0_6",
+    "RelativePath": "products/search/{query}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Catalog.Models.Product, Catalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "SearchProducts"
+  },
+  {
+    "ContainingType": "Catalog.Endpoints.ProductEndpoints\u002B\u003C\u003Ec",
     "Method": "\u003CMapProductEndpoints\u003Eb__0_5",
     "RelativePath": "products/support/{query}",
     "HttpMethod": "GET",
